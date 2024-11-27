@@ -1,0 +1,5 @@
+Atualizar pacotes src
+
+1 - Entrar na pastar void-packages
+2 - git pull
+3 - ./xbps-src update-sys
